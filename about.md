@@ -78,9 +78,10 @@ print a + b
 # 👾 NKUOJ开发团队
 
 ## 主要成员
+
 | v1 |[Freezind](https://github.com/Freezind)| [Gorgear](https://github.com/cctv1005s) | lbx | | |
 | --------- | --------- | --------- | --------- | --------- | --------- |
-| v2 | lbx | yh | wyh | lbq | [Gorgear](https://github.com/cctv1005s)|
+| **v2** | **lbx** | [**William**](https://github.com/William-YanHua) | **wyh** | **lbq** | [**Gorgear**](https://github.com/cctv1005s) |
 
 
 

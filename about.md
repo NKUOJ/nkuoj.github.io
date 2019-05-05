@@ -1,12 +1,12 @@
-# oj
+# 💡 oj
 
 内核部分采用: [JudgeServer](https://github.com/QingdaoU/JudgeServer) 
 
 ## 应用示例
 
-**a + b 问题: 输入两个数字，输出两个数字的和**
+> **a + b 问题: 输入两个数字，输出两个数字的和**
 
-**输入示例**：
+#### 输入示例
 
 ```shell
 1 2
@@ -22,13 +22,12 @@
 31
 ```
 
-**各语言代码示例**
+## 各语言代码示例
 
-*c*
+#### `c`
 
 ```c
-#include 'stdio.h'
-using namespace std;
+#include "stdio.h"
 int main() {
     int a, b;
     scanf("%d %d", &a, &b);
@@ -37,7 +36,7 @@ int main() {
 }
 ```
 
-*c++*
+#### `c++`
 
 ```c++
 #include <iostream>
@@ -50,7 +49,7 @@ int main() {
 }
 ```
 
-*java*
+#### `java`
 
 ```java
 import java.util.Scanner;
@@ -64,7 +63,7 @@ public class Main {
 }
 ```
 
-*python 2*
+#### `python2`
 
 ```python2
 a = input()
@@ -74,33 +73,14 @@ print a + b
 
 ## 各语言编译命令
 
-```shell
-# c | c++
-gcc -o ./main.c
-gcc -o ./main.cpp
-# java
-javac ./main.java
-# python 无需编译，直接运行
-python main.py
-```
+参考：[语言配置](https://github.com/QingdaoU/JudgeServer/blob/master/client/Python/languages.py)
 
-
-
-# NKUOJ开发团队
+# 👾 NKUOJ开发团队
 
 ## 主要成员
+| v1 |[Freezind](https://github.com/Freezind)| [Gorgear](https://github.com/cctv1005s) | lbx | | |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| v2 | lbx | yh | wyh | lbq | [Gorgear](https://github.com/cctv1005s)|
 
-### v1
 
-- [Freezind](https://github.com/Freezind)
-- [Gorgear](https://github.com/cctv1005s)
-- 李博学
-
-### v2
-
-- 李博学
-- 严骅
-- 王宇博
-- 赖柏琦
-- [Gorgear](https://github.com/cctv1005s)
 

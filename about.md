@@ -66,8 +66,10 @@ public class Main {
 #### `python2`
 
 ```python2
-a = input()
-b = input()
+str = raw_input()
+str = str.split()
+a = int(str[0])
+b = int(str[1])
 print a + b
 ```
 

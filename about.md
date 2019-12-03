@@ -35,6 +35,7 @@ A：OJ对每个编程题的运行时间都有限制，一般是限制在10秒，
 
 A：运行错误一般都是数组越界非法访问，野指针乱访问，空指针乱访问等情况造成代码奔溃。
 
+#### 8、 当python 报错：/usr/bin/python3: error while loading shared libraries: libm.so.6: failed to map segment from shared object时，极大可能是给python运行的内存限制过小
 
 ## A+B 问题各语言代码示例
 

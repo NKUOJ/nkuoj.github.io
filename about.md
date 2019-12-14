@@ -37,6 +37,8 @@ A：运行错误一般都是数组越界非法访问，野指针乱访问，空�
 
 #### 8、 当python 报错：/usr/bin/python3: error while loading shared libraries: libm.so.6: failed to map segment from shared object时，极大可能是给python运行的内存限制过小
 
+#### 9、 测试集结尾符应当注意以回车结束，在编辑题目页面，测试用例末尾手动输入回车。
+
 ## A+B 问题各语言代码示例
 
 #### `c`
